@@ -9,3 +9,5 @@ Per descarregar nomes cal fer clik al ellaç que diu My Project.exe.
 Per executar de vegades cal des instalar el unity i tornar-ho a instalar perque li falta una cosa que es diu player noseque.
 
 Developers Name: Aleix Ramos, Hugo Corvo, Nico Sánchez
+
+3/6/25
